@@ -1,0 +1,10 @@
+# Global files
+
+.*
+!/.gitignore
+*.zip
+.svn
+*.sql
+error_log
+node_modules
+
